@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Bai3
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Binh Kieu
+Implementation-Vendor-Id: org.binhkieu
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Bai3
+Created-By: Maven Integration for Eclipse
+
